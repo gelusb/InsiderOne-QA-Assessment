@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QA Engineer Assessment – Automation Framework (Playwright + TypeScript + API + Load Testing)
 
 This repository contains a complete automation framework built for the QA Engineer Assessment.  
@@ -318,3 +319,7 @@ npx allure open ./allure-report
 
 ---
 
+=======
+# InsiderOne-QA-Assessment
+qa assessment 
+>>>>>>> 2ea4e5bff7d6868c87bf3b116b1b3a9702cd354a
