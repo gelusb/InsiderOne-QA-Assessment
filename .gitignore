@@ -1,0 +1,10 @@
+node_modules/
+test-results/
+allure-results/
+allure-report/
+playwright-report/
+jmeter.log
+*.jtl
+*.class
+.DS_Store
+.env

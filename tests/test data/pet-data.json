@@ -1,0 +1,12 @@
+{
+  "valid_pet": {
+    "id": 123456789,
+    "name": "automation-dog",
+    "status": "available"
+  },
+  "updated_pet": {
+    "id": 123456789,
+    "name": "automation-dog-updated",
+    "status": "sold"
+  }
+}
