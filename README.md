@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QA Engineer Assessment – Automation Framework (Playwright + TypeScript + API + Load Testing)
 
 This repository contains a complete automation framework built for the QA Engineer Assessment.  
